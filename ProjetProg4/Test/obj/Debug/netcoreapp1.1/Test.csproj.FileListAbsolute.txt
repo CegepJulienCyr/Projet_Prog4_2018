@@ -1,0 +1,29 @@
+C:\Users\DegJu1531413\Documents\Visual Studio 2017\Projects\PorjetProg4\Test\bin\Debug\netcoreapp1.1\Test.deps.json
+C:\Users\DegJu1531413\Documents\Visual Studio 2017\Projects\PorjetProg4\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.json
+C:\Users\DegJu1531413\Documents\Visual Studio 2017\Projects\PorjetProg4\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.dev.json
+C:\Users\DegJu1531413\Documents\Visual Studio 2017\Projects\PorjetProg4\Test\bin\Debug\netcoreapp1.1\Test.dll
+C:\Users\DegJu1531413\Documents\Visual Studio 2017\Projects\PorjetProg4\Test\bin\Debug\netcoreapp1.1\Test.pdb
+C:\Users\DegJu1531413\Documents\Visual Studio 2017\Projects\PorjetProg4\Test\obj\Debug\netcoreapp1.1\Test.csprojResolveAssemblyReference.cache
+C:\Users\DegJu1531413\Documents\Visual Studio 2017\Projects\PorjetProg4\Test\obj\Debug\netcoreapp1.1\Test.AssemblyInfo.cs
+C:\Users\DegJu1531413\Documents\Visual Studio 2017\Projects\PorjetProg4\Test\obj\Debug\netcoreapp1.1\Test.dll
+C:\Users\DegJu1531413\Documents\Visual Studio 2017\Projects\PorjetProg4\Test\obj\Debug\netcoreapp1.1\Test.pdb
+D:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.deps.json
+D:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.json
+D:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.dev.json
+D:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.dll
+D:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.pdb
+D:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.csprojResolveAssemblyReference.cache
+D:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.AssemblyInfo.cs
+D:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.dll
+D:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.pdb
+G:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.deps.json
+G:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.json
+G:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.dev.json
+G:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.dll
+G:\Projet_2018\ProjetProg4\Test\bin\Debug\netcoreapp1.1\Test.pdb
+G:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.csprojResolveAssemblyReference.cache
+G:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.csproj.CoreCompileInputs.cache
+G:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.AssemblyInfoInputs.cache
+G:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.AssemblyInfo.cs
+G:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.dll
+G:\Projet_2018\ProjetProg4\Test\obj\Debug\netcoreapp1.1\Test.pdb
